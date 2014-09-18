@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except debian package and git package files.
+!.gitignore
+!debian
+!debian/*
+!README.md
+!LICENSE
